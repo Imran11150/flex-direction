@@ -1,0 +1,15 @@
+.anakutu{
+display: flex;
+flex-direction: column;
+flex-wrap: wrap-reverse;
+
+}
+.item{
+
+height: 200px;
+width: 200px;
+margin: 20px;
+color: white;
+font-weight: bolder;
+text-align: center;
+}
